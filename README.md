@@ -1,2 +1,2 @@
 # Credit card approval prediction
- to predict approve the credit card or not based on given details
+ To predicting the approve the credit card or not based on given customer details.
